@@ -25,7 +25,7 @@ Download and run the installation script, which will pull the image from Alibaba
 After the script is started, mapping the log and configuration files and block data to / mnt / witness, which can be viewed in real time. Check the log, the word got block will appear in a few seconds.
 
 # 2. Download the chain wallet and connect to the main chain operation
-##1. Download wallet
+## 1. Download wallet
 
  [https://github.com/Cocos-BCX/cocos-bcx-node-bin/tree/master/cli/mainnet/v1.1.1/linux](https://github.com/Cocos-BCX/cocos-bcx-node-bin/tree/master/cli/mainnet/v1.1.1/linux)
 
