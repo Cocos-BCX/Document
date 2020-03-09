@@ -16,7 +16,7 @@ ubuntu 16.04
 docker
 
 # 运行安装脚本
-curl [https://raw.githubusercontent.com/Cocos-BCX/cocos-bcx-node-bin/master/fullnode/mainnet/v1.1.1/build_chain.sh](https://raw.githubusercontent.com/Cocos-BCX/cocos-bcx-node-bin/master/fullnode/mainnet/v1.0.9/build_chain.sh) | bash
+curl [https://raw.githubusercontent.com/Cocos-BCX/cocos-bcx-node-bin/master/fullnode/mainnet/v1.1.2/build_chain.sh](https://raw.githubusercontent.com/Cocos-BCX/cocos-bcx-node-bin/master/fullnode/mainnet/v1.1.2/build_chain.sh) | bash
 
 下载运行安装脚本，该脚本会从阿里云拉取镜像，取主网的配置文件config和genesis创世文件，并运行镜像。
 
