@@ -9,7 +9,7 @@
 技术人员给出创建主账号
 
 ## 2.下载钱包
-去https://github.com/Cocos-BCX/cocos-bcx-node-bin/tree/master/cli/mainnet/v1.0.9/linux
+去https://github.com/Cocos-BCX/cocos-bcx-node-bin/tree/master/cli/mainnet/v1.1.1/linux
 
 下载可用的钱包二进制文件 cli_wallet.tar.gz并解压。
 
