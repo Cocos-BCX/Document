@@ -15,7 +15,7 @@ Become an Active Council
 
 1.Registered account name of main network
 
-Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
+Firstly check [Developer wallet download and account registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Developer%20wallet%20download%20and%20account%20registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
 
 2.Register for Council Candidate
 
@@ -84,7 +84,7 @@ Become an Active Witness
 
 1.Registered account name of main network
 
-Firstly check [Developer wallet download and account registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
+Firstly check [Developer wallet download and account registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Developer%20wallet%20download%20and%20account%20registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
 
 2.Register Witness Candidates
 
