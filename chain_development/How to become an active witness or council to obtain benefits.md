@@ -219,7 +219,7 @@ Note: the amount here does not have precision, for example, enter 225490000000/1
 
 Appendix link:
 
-1. Wallet download operation and registration instructions
+1.Wallet download operation and registration instructions
 
 [https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md)
 
