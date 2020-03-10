@@ -219,7 +219,7 @@ Appendix link:
 
 2.Developer wallet operation command
 
-[https://cn-dev.cocosbcx.io/docs/22-cli_wallet](https://cn-dev.cocosbcx.io/docs/22-cli_wallet)
+[https://dev.cocosbcx.io/docs/22-cli_wallet](https://dev.cocosbcx.io/docs/22-cli_wallet)
 
 3.COCOS_BCX node environment setup instructions
 
