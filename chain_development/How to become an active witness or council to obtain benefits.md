@@ -9,15 +9,13 @@ Users can register as the council candidates or witness (BP) candidates or as bo
 
 Top 11 candidates which is sorted by it's votes in the Council Election  become active council members within 24 hours after successful voting, participate in online governance, and vote on proposals.
 
- 
-
 Top 11 candidates which is sorted by it's votes in the BP Election  become active witnesses within 24 hours after successful voting. You need to refer to the following configuration instructions to build block nodes and participate in block production.
 
 Become an Active Council
 
-1. Manual Token Mapping
+1.Registered account name of main network
 
-Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to transfer a minimum amount of 50,001,000 COCOS into the ERCerc 20 wallet address designated by Cocos-BCX. After that Cocos-BCX sends the corresponding COCOS to the COCOS MainNet account address provided by you.
+Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
 
 
 2. Register for Council Candidate
@@ -86,9 +84,9 @@ The income of the council will be immediately received, and it will be distribut
 
 Become an Active Witness
 
-1. Manual token mapping 
+1. 1.Registered account name of main network
 
-Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to transfer a minimum amount of 50,001,000 COCOS into the erc 20 wallet address designated by Cocos-BCX. After that Cocos-BCX will send the corresponding COCOS to the COCOS MainNet account address provided by you.
+Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to own a minimum amount of 50,001,000 COCOS.
 
 2. Register Witness Candidates
 
