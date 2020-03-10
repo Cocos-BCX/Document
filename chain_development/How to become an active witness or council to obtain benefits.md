@@ -166,7 +166,7 @@ Type the command list_witnesses "" 10
 
 The results are as follows:
 
-           ![图片](https://uploader.shimo.im/f/7bRwnAApZO0ZdFCY.png!thumbnail)
+![图片](https://uploader.shimo.im/f/7bRwnAApZO0ZdFCY.png!thumbnail)
 
 b.Querying Votes
 
@@ -185,11 +185,11 @@ Type command info in the command line
 
 The results are as follows:
 
-    ![图片](https://uploader.shimo.im/f/BazAAaPraYQVH1x8.png!thumbnail)
+![图片](https://uploader.shimo.im/f/BazAAaPraYQVH1x8.png!thumbnail)
 
 The red box here is the account id, you can get the account id by using the command get_account account name
 
-   ![图片](https://uploader.shimo.im/f/F3cSeaJ3HSo0F038.png!thumbnail)
+![图片](https://uploader.shimo.im/f/F3cSeaJ3HSo0F038.png!thumbnail)
 
 Check whether the account ID is in the active_witnesses list returned by info.
 
@@ -215,9 +215,13 @@ Appendix link:
 
 1.Developer wallet download and account registration
 
-[https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Cocos-BCX%20Binary%20Wallet%20Instructions%20and%20Account%20Registration.md)
+[https://github.com/Cocos-BCX/Document/blob/master/chain_development/Developer%20wallet%20download%20and%20account%20registration.md](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Developer%20wallet%20download%20and%20account%20registration.md)
 
-2.COCOS_BCX node environment setup instructions
+2.Developer wallet operation command
+
+[https://cn-dev.cocosbcx.io/docs/22-cli_wallet](https://cn-dev.cocosbcx.io/docs/22-cli_wallet)
+
+3.COCOS_BCX node environment setup instructions
 
 [https://github.com/Cocos-BCX/Document/blob/master/chain_development/Construction%20of%20Cocos-BCX%20node%20environment.md
 ](https://github.com/Cocos-BCX/Document/blob/master/chain_development/Construction%20of%20Cocos-BCX%20node%20environment.md)
