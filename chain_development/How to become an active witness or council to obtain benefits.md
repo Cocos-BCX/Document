@@ -17,7 +17,7 @@ Become an Active Council
 
 1. Manual Token Mapping
 
-Firstly check ([Cocos-BCXWallet](Cocos-BCX二进制钱包说明和账户注册.md)) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to transfer a minimum amount of 50,001,000 COCOS into the ERCerc 20 wallet address designated by Cocos-BCX. After that Cocos-BCX sends the corresponding COCOS to the COCOS MainNet account address provided by you.
+Firstly check ([Cocos-BCX Wallet](Cocos-BCX二进制钱包说明和账户注册.md)) to download and operate the wallet, and then register for the COCOS MainNet account. As the current council threshold requires 50 million COCOS At the same time, registering a candidate costs 1000 COCOS, so you need to transfer a minimum amount of 50,001,000 COCOS into the ERCerc 20 wallet address designated by Cocos-BCX. After that Cocos-BCX sends the corresponding COCOS to the COCOS MainNet account address provided by you.
 
 
 2. Register for Council Candidate
