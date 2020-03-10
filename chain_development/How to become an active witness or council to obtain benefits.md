@@ -7,11 +7,11 @@ Role Selection
 
 Users can register as the council candidates or witness (BP) candidates or as both a Council and a Witness candidate.
 
-Council candidates become active council members within 24 hours after successful voting, participate in online governance, and vote on proposals.
+Top 11 candidates which is sorted by it's votes in the Council Election  become active council members within 24 hours after successful voting, participate in online governance, and vote on proposals.
 
  
 
-Witness candidates become active witnesses within 24 hours after successful voting. You need to refer to the following configuration instructions to build block nodes and participate in block production.
+Top 11 candidates which is sorted by it's votes in the BP Election  become active witnesses within 24 hours after successful voting. You need to refer to the following configuration instructions to build block nodes and participate in block production.
 
 Become an Active Council
 
