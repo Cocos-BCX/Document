@@ -19,7 +19,7 @@ Firstly check [Cocos-BCX Binary Wallet Instructions and Account Registration](ht
 
 2.Register for Council Candidate
 
-Before the transaction, please follow the wallet instructions to import the referer account private key; otherwise, it prompts a permission verification error.
+Before the transaction, please follow [Developer wallet operation command](https://dev.cocosbcx.io/docs/22-cli_wallet) to import the referer account private key; otherwise, it prompts a permission verification error.
 
 
 a.Upgrade Account
@@ -88,7 +88,7 @@ Firstly check [Developer wallet download and account registration](https://githu
 
 2.Register Witness Candidates
 
-Before the transaction, please follow the wallet instructions to import the referer account private key, otherwise a permission verification error will be prompted.
+Before the transaction, please follow [Developer wallet operation command](https://dev.cocosbcx.io/docs/22-cli_wallet)  to import the referer account private key, otherwise a permission verification error will be prompted.
 
 a.Upgrade Account
 
